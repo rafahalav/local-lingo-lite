@@ -1,4 +1,4 @@
-# 🧠 Local Lingo Lite
+# 🇧🇷🇺🇸 Local Lingo Lite
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
