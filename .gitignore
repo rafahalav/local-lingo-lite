@@ -1,0 +1,19 @@
+# Ambiente virtual
+venv/
+
+# Binários compilados (muito pesado)
+llama.cpp/
+
+# Modelo de IA (1GB+, não deve ir pro Git)
+*.gguf
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
